@@ -1,1 +1,1 @@
-Employee Management system using python and Tkinter.
+Employee Management system using python Tkinter and Sqlite.
